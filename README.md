@@ -1,82 +1,72 @@
 # Sales-data-powerbi-dashboard
 Interactive Power BI dashboard analyzing sales data to uncover trends, performance, and business insights.
 
-# 📊 Sales Data Dashboard (Power BI)
-
+# 📊 Sales Performance Dashboard (Power BI)
 ## 📌 Project Overview
-This project presents an interactive Power BI dashboard designed to analyze sales performance across different categories, regions, and supervisors.
-The dashboard provides insights into sales distribution, product demand, and profitability to support better business decision-making.
+This project presents an interactive Power BI dashboard built to analyze sales performance across product categories, states, and supervisors.
+The dashboard provides clear insights into revenue, cost, profit, and product demand to support data-driven business decisions.
 ---
+
 ## 🎯 Objectives
-* Analyze total sales, cost, and profit
-* Identify top-performing product categories
-* Understand sales distribution across states in India
-* Track supervisor-wise performance
-* Monitor product demand trends
+* Track overall sales, cost, and profit performance
+* Analyze product category demand
+* Visualize state-wise sales distribution across India
+* Evaluate supervisor-level performance
+* Identify top-performing products
 ---
 ## 📂 Dataset Details
 The dataset includes:
-* Sales Amount
+* Total Sales
 * Total Cost
 * Profit
 * Quantity
-* Product Category (CPU, Monitor, Mouse, etc.)
+* Product Categories (Monitor, CPU, Mouse, etc.)
 * State-wise sales data
-* Supervisor information
+* Supervisor details
 ---
 ## 📊 Dashboard Features
-* 📌 KPI Cards:
-  * Total Sales: **16M**
-  * Total Cost: **12M**
-  * Total Profit: **4M**
-  * Orders: **113M**
-* 📦 Category Analysis:
-  * Quantity distribution across products like Monitor, CPU, Mouse, etc.
-* 🌍 Geographic Analysis:
-  * State-wise sales visualization using map
-* 📊 Product Distribution:
-  * Pie chart showing category contribution
-* 👨‍💼 Supervisor Filter:
-  * Analyze performance by individual supervisors
+### 📌 Key Performance Indicators (KPIs)
+* 💰 Total Sales: **99M**
+* 💸 Total Cost: **76M**
+* 📦 Quantity Sold: **13K**
+* 📑 Orders: **723M**
+* 📈 Total Profit: **23M**
+---
+### 📦 Category Analysis
+* Bar chart showing quantity distribution across product categories
+* Identifies high-demand products like Monitor, Mouse, and CPU
+---
+### 🌍 Geographic Insights
+* Map visualization displaying state-wise sales across India
+* Helps identify high-performing regions
+---
+### 📊 Product Distribution
+* Pie chart showing contribution of each category
 ---
 ## 🖼️ Dashboard Preview
-<img width="1920" height="864" alt="dashboard png" src="https://github.com/user-attachments/assets/0be36181-1a8c-4fc4-b8ff-4b52623e5eec" />
+<img width="1918" height="951" alt="dashboard" src="https://github.com/user-attachments/assets/d7a40a20-c243-4272-abfb-52799715b9b8" />
 
 ---
-
 ## 🛠️ Tools & Technologies
-
 * Power BI
 * Data Visualization
 * Data Cleaning
-
 ---
-
 ## 📈 Key Insights
-
-* Monitor and CPU categories show highest demand
-* Sales are concentrated in major states of India
-* Profit margin remains strong compared to total cost
-* Supervisor-based filtering helps track performance
-
+* Monitor and Mouse categories generate highest sales volume
+* Strong profit margin observed (~23M profit on 99M sales)
+* Sales are concentrated in major Indian states
+* Supervisor-based filtering enables performance comparison
 ---
-
 ## 📁 Repository Contents
-
 * `Sales_Dashboard.pbix`
 * `sales_data.csv`
 * `dashboard.png`
-
 ---
-
-## 🚀 Future Improvements
-
-* Add time-series analysis (monthly/yearly trends)
-* Include customer segmentation
-* Add forecasting using Power BI
-
+## 🚀 Future Enhancements
+* Add time-based trend analysis (monthly/yearly)
+* Introduce profit percentage KPI
+* Implement forecasting features
 ---
-
 ## 📬 Connect with Me
-
 www.linkedin.com/in/sushil-suryawanshi-216ba626a
