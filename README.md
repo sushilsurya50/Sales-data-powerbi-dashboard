@@ -44,7 +44,7 @@ The dataset includes:
 * Pie chart showing contribution of each category
 ---
 ## 🖼️ Dashboard Preview
-<img width="1918" height="951" alt="dashboard" src="https://github.com/user-attachments/assets/d7a40a20-c243-4272-abfb-52799715b9b8" />
+<img width="1918" height="946" alt="dashboard" src="https://github.com/user-attachments/assets/fb9f469b-2793-4209-a005-6551dc3eaf8a" />
 
 ---
 ## 🛠️ Tools & Technologies
